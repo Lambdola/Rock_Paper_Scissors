@@ -1,2 +1,2 @@
 # Rock_Paper_Scissors
-A one player game of Rock, Paper, Scissors 
+A Single Player game of Rock, Paper and Scissors 
